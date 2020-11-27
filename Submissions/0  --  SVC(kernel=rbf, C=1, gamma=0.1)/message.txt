@@ -1,0 +1,2 @@
+0  --  SVC(kernel=rbf, C=1, gamma=0.1) 
+ SVC(C=1, gamma=0.1)

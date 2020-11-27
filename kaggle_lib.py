@@ -80,6 +80,7 @@ class Submitter:
 
     def check_submission(self):
         last_submission = self.kaggle_api.competitions_submissions_list(self.compete)[0]
+        print('Description: ', last_submission['description'])
         print('Date: ', last_submission['date'])
         print('Status: ', last_submission['status'])
         print('Score: ', last_submission['publicScore'])

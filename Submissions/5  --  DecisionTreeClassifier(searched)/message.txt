@@ -1,0 +1,2 @@
+5  --  DecisionTreeClassifier(searched) 
+ SVC(C=1, gamma=0.1)

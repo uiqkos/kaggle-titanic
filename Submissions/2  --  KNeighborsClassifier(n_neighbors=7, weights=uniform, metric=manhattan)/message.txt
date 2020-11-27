@@ -1,0 +1,2 @@
+2  --  KNeighborsClassifier(n_neighbors=7, weights=uniform, metric=manhattan) 
+ KNeighborsClassifier(metric='manhattan', n_neighbors=7)

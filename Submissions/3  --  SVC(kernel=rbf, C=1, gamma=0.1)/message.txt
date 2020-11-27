@@ -1,0 +1,2 @@
+3  --  SVC(kernel=rbf, C=1, gamma=0.1) 
+ KNeighborsClassifier(metric='manhattan', n_neighbors=7)

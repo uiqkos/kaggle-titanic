@@ -1,0 +1,2 @@
+6  --  DecisionTreeClassifier(searched) 
+ DecisionTreeClassifier(max_depth=8, max_features=3)

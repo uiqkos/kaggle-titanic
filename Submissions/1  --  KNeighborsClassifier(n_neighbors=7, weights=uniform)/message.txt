@@ -1,0 +1,2 @@
+1  --  KNeighborsClassifier(n_neighbors=7, weights=uniform) 
+ KNeighborsClassifier(n_neighbors=7)
